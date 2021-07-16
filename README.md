@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**tomcdev63/tomcdev63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I’m @tomcdev63 I am 31 years old and I am French
 
 - 👾 I’m currently working on OCR technologies
 - 💻 I’m currently learning Python language and AI
