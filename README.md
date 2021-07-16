@@ -3,5 +3,4 @@
 - 👾 I’m currently working on OCR technologies
 - 💻 I’m currently learning Python language and AI
 - 📫 How to reach me: tomcdev63@gmail.com
-- 🔭 Fun fact: I am keen on astronomy 
--->
+- 🔭 Fun fact: I am keen on astronomy
